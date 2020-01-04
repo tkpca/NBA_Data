@@ -1,0 +1,19 @@
+ 2020-01-04 17:26:15,473 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+ 2020-01-04 17:54:09,853 - parso.cache - DEBUG - pickle loaded: C:\Users\tarun\Miniconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+ 2020-01-04 17:54:09,929 - parso.cache - DEBUG - pickle loaded: C:\Users\tarun\Miniconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+ 2020-01-04 17:54:52,964 - parso.python.diff - DEBUG - diff parser start
+ 2020-01-04 17:54:52,965 - parso.python.diff - DEBUG - line_lengths old: 1; new: 3
+ 2020-01-04 17:54:52,965 - parso.python.diff - DEBUG - -> code[insert] old[1:0] new[1:2]
+ 2020-01-04 17:54:52,967 - parso.python.diff - DEBUG - parse_part from 1 to 2 (to 2 in part parser)
+ 2020-01-04 17:54:52,967 - parso.python.diff - DEBUG - -> code[equal] old[1:1] new[3:3]
+ 2020-01-04 17:54:52,968 - parso.python.diff - DEBUG - parse_part from 3 to 3 (to 2 in part parser)
+ 2020-01-04 17:54:52,968 - parso.python.diff - DEBUG - diff parser end
+ 2020-01-04 17:57:02,654 - parso.python.diff - DEBUG - diff parser start
+ 2020-01-04 17:57:02,654 - parso.python.diff - DEBUG - line_lengths old: 3; new: 1
+ 2020-01-04 17:57:02,654 - parso.python.diff - DEBUG - -> code[replace] old[1:3] new[1:1]
+ 2020-01-04 17:57:02,655 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2020-01-04 17:57:02,655 - parso.python.diff - DEBUG - diff parser end
+ 2020-01-04 18:04:43,839 - comtypes - DEBUG - CoInitializeEx(None, 2)
+ 2020-01-04 18:04:45,803 - comtypes - DEBUG - Release <POINTER(IDispatch) ptr=0x1fabf833dc8 at 1fa86d5bdc8>
+ 2020-01-04 18:04:49,512 - comtypes - DEBUG - Release <POINTER(IDispatch) ptr=0x1fabf832468 at 1fa86d5be48>
+ 2020-01-04 18:05:05,509 - comtypes - DEBUG - Release <POINTER(IDispatch) ptr=0x1fabf8331f8 at 1fabad7c8c8>
