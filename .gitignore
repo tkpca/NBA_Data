@@ -1,4 +1,9 @@
-
+chart.html
+Create_2019_schedule.ipynb
+Unused/
+Web API Test.ipynb
+NBA_Player_Bio.ipynb
+NBA_Charts_merged.ipynb
 Consolidate_Data.ipynb
 Consolidated_NBA_Player_Log_Data.h5
 Consolidated_NBA_Player_Log_Data.h5
@@ -20,3 +25,9 @@ Datatables/.ipynb_checkpoints/DB_Setup-checkpoint.ipynb
 *.log
 response_adv.pkl
 response_basic.pkl
+*.log
+*.csv
+Player_Data_Chart.ipynb
+*copy.ipynb
+Fix_Single_Games.ipynb
+/.ipynb_checkpoints
